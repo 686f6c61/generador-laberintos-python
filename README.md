@@ -1,6 +1,6 @@
 # Generador de laberintos
 
-![Laberinto](/assets/laberinto.png)
+![Laberinto](/laberinto/assets/laberinto.png)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Pygame](https://img.shields.io/badge/Pygame-2C2D72?style=for-the-badge&logo=pygame&logoColor=white)](https://www.pygame.org/)
